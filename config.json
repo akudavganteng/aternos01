@@ -1,0 +1,9 @@
+{
+	"ip":"aku_smpp.aternos.me",
+	"port": "21053",
+	"name": "akudav_ganteng",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register Nolan123 ",
+	"login-cmd":"/login Nolan123 "
+}
